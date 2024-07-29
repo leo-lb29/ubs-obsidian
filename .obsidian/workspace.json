@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "777f493e0115de0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "87c7d5bee3710348",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "863b1c7e985d27b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0d9daddb4efe6f20",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff18602bf8f77224",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "831d11897acedcee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7416eb8d814554d6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "29f48a10c2a05a03",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 233.5
+  },
+  "right": {
+    "id": "e9220fabc31d286c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ef395ee28f8377e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69228f1f74c1dc96",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "090faa597dc49a4f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b454f45bb76430cf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0c4d51ee4a00430c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          },
+          {
+            "id": "a2ec4106da1fb498",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-kanban:Create new board": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "hide-folders:Show hidden folders": false,
+      "workspaces:Gérer les espaces de travail": false
+    }
+  },
+  "active": "831d11897acedcee",
+  "lastOpenFiles": [
+    "Licence 3/Semestre 6/Microcontr├┤leurs/projet",
+    "Licence 3/Semestre 6/Microcontr├┤leurs/note",
+    "Licence 3/Semestre 6/Microcontr├┤leurs/cours",
+    "Licence 3/Semestre 6/Microcontr├┤leurs/carte mentale",
+    "Licence 3/Semestre 5/Mod├®lisation dÔÇÖarchitectures num├®riques/projet",
+    "Licence 3/Semestre 5/Mod├®lisation dÔÇÖarchitectures num├®riques/note",
+    "Licence 3/Semestre 5/Mod├®lisation dÔÇÖarchitectures num├®riques/cours",
+    "Licence 3/Semestre 5/Mod├®lisation dÔÇÖarchitectures num├®riques/carte mentale",
+    "Licence 3/Semestre 5/Outils math├®matiques et num├®riques pour lÔÇÖing├®nieur/projet",
+    "Licence 3/Semestre 5/Outils math├®matiques et num├®riques pour lÔÇÖing├®nieur/note",
+    "Licence 3/Semestre 5/Outils math├®matiques et num├®riques pour lÔÇÖing├®nieur/cours",
+    "Licence 1 - Semestre 1/Anglais – Activités d’ouverture/Physique.md",
+    "Licence 1 - Semestre 1/Anglais – Activités d’ouverture/Mathématiques.md",
+    "Licence 1 - Semestre 1/Sciences du numérique - Copie/Physique.md",
+    "Licence 1 - Semestre 1/Sciences du numérique - Copie/Mathématiques.md",
+    "Licence 1 - Semestre 1/Sciences du numérique/Physique.md",
+    "Licence 1 - Semestre 1/Sciences du numérique/Mathématiques.md",
+    "Licence 1 - Semestre 1/Programmation fonctionnelle/Mathématiques.md",
+    "Licence 1 - Semestre 1/Physique  Électricité I/README.md",
+    "Licence 1 - Semestre 1/Physique  Électricité I/Mathématiques.md",
+    "Licence 1 - Semestre 1/Algorithmique et programmation impérative/README.md",
+    "Licence 1 - Semestre 1/Algorithmique et programmation impérative/Mathématiques.md",
+    "Licence 1 - Semestre 1/Concepts et outils mathématiques/README.md",
+    "Licence 1 - Semestre 1/Concepts et outils mathématiques/Mathématiques.md",
+    "Licence 1 - Semestre 1/Mathématique/Mathématiques.md",
+    "Licence 1 - Semestre 1/Physique/Physique.md",
+    "Licence 1 - Semestre 1/Cours 5/README.md",
+    "Licence 1 - Semestre 1/Cours 5/Mathématiques.md",
+    "Licence 1 - Semestre 1/Cours 4/README.md",
+    "Licence 1 - Semestre 1/Cours 4/Mathématiques.md",
+    "Licence 1 - Semestre 1/Physique/Mathématiques.md",
+    "Licence 1 - Semestre 1/Cours 3/README.md",
+    "Licence 1 - Semestre 1/Cours 3/Mathématiques.md",
+    "Licence 1er année/Mathématique/Mathématiques.md",
+    "Licence 1er année/Cours 3/Mathématiques.md",
+    "Licence 1er année/Cours 4/Mathématiques.md"
+  ]
+}

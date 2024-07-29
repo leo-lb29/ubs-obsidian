@@ -1,0 +1,6 @@
+node_modules/
+index.mjs
+.git
+start.cmd
+package.json
+package-lock.json

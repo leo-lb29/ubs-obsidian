@@ -1,0 +1,8 @@
+{
+  "useMarkdownLinks": true,
+  "userIgnoreFilters": [
+    "node_modules/"
+  ],
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
+}
