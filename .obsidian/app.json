@@ -1,8 +1,10 @@
 {
-  "useMarkdownLinks": true,
+  "useMarkdownLinks": false,
   "userIgnoreFilters": [
-    "node_modules/"
+    "node_modules/",
+    "attachements"
   ],
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "attachements"
 }
