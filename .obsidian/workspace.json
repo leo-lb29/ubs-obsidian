@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Licence 1 - Semestre 1/Cours/matieres/Algorithmique et programmation impérative/Sommaires Algo et prog.md",
+                "file": "Licence 1 - Semestre 1/Cours/matières/Algorithmique et programmation impérative/Sommaires Algo et prog.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Licence 1 - Semestre 1/Cours/matieres/Algorithmique et programmation impérative/Sommaires Algo et prog.md",
+                "file": "Licence 1 - Semestre 1/Cours/matières/Algorithmique et programmation impérative/Sommaires Algo et prog.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Licence 1 - Semestre 1/Cours/matieres/Algorithmique et programmation impérative/Sommaires Algo et prog.md",
+                "file": "Licence 1 - Semestre 1/Cours/matières/Algorithmique et programmation impérative/Sommaires Algo et prog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Licence 1 - Semestre 1/Cours/matieres/Algorithmique et programmation impérative/Sommaires Algo et prog.md",
+                "file": "Licence 1 - Semestre 1/Cours/matières/Algorithmique et programmation impérative/Sommaires Algo et prog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Licence 1 - Semestre 1/Cours/matieres/Algorithmique et programmation impérative/Sommaires Algo et prog.md"
+                "file": "Licence 1 - Semestre 1/Cours/matières/Algorithmique et programmation impérative/Sommaires Algo et prog.md"
               }
             }
           },
@@ -201,11 +201,11 @@
       "workspaces:Gérer les espaces de travail": false
     }
   },
-  "active": "1457400787c31bbf",
+  "active": "831d11897acedcee",
   "lastOpenFiles": [
     "Licence 1 - Semestre 1/Cours/Sommaires cours L1 S1.md",
     "Licence 1 - Semestre 1/Notes et Cartes mentales/Sommaires notes L1 S1.md",
-    "Licence 1 - Semestre 1/Cours/matieres/Algorithmique et programmation impérative/Sommaires Algo et prog.md",
+    "Licence 1 - Semestre 1/Cours/matières/Algorithmique et programmation impérative/Sommaires Algo et prog.md",
     "Licence 1 - Semestre 2/Projets/Sommaires projets L1 S2.md",
     "t.md",
     "Licence 1 - Semestre 2/Projets/matières/Traitement du signal et de l’Image/Sommaires signal et image.md",
