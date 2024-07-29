@@ -147,13 +147,13 @@
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-kanban:Create new board": false,
+      "hide-folders:Show hidden folders": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
       "canvas:Créer une nouvelle toile": false,
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
-      "hide-folders:Show hidden folders": false,
       "workspaces:Gérer les espaces de travail": false
     }
   },
