@@ -4,63 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "38e67c2d221f6d9a",
+        "id": "5301de7931440e06",
         "type": "tabs",
         "children": [
           {
-            "id": "1457400787c31bbf",
+            "id": "2a6358f3af5b2b61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Licence 1 - Semestre 1/Cours/matières/Algorithmique et programmation impérative/Sommaires Algo et prog.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "803130cf219a495d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Licence 1 - Semestre 1/Cours/matières/Algorithmique et programmation impérative/Sommaires Algo et prog.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "51f8c1dc28c53f3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Licence 1 - Semestre 1/Notes et Cartes mentales/Sommaires notes L1 S1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f7351f59fa47e82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Licence 1 - Semestre 2/Projets/Sommaires projets L1 S2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eee1451fab1e0a42",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -129,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Licence 1 - Semestre 1/Cours/matières/Algorithmique et programmation impérative/Sommaires Algo et prog.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Licence 1 - Semestre 1/Cours/matières/Algorithmique et programmation impérative/Sommaires Algo et prog.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Licence 1 - Semestre 1/Cours/matières/Algorithmique et programmation impérative/Sommaires Algo et prog.md"
+                "file": "README.md"
               }
             }
           },
@@ -201,43 +157,43 @@
       "workspaces:Gérer les espaces de travail": false
     }
   },
-  "active": "831d11897acedcee",
+  "active": "2a6358f3af5b2b61",
   "lastOpenFiles": [
-    "Licence 1 - Semestre 1/Cours/Sommaires cours L1 S1.md",
-    "Licence 1 - Semestre 1/Notes et Cartes mentales/Sommaires notes L1 S1.md",
-    "Licence 1 - Semestre 1/Cours/matières/Algorithmique et programmation impérative/Sommaires Algo et prog.md",
+    "Licence 1 - Semestre 1/Sommaire L1 S1.md",
     "Licence 1 - Semestre 2/Projets/Sommaires projets L1 S2.md",
-    "t.md",
-    "Licence 1 - Semestre 2/Projets/matières/Traitement du signal et de l’Image/Sommaires signal et image.md",
-    "Licence 1 - Semestre 2/Projets/matières/Traitement du signal et de l’Image",
-    "Licence 1 - Semestre 2/Projets/matières/Sciences de l’ingénieur/Sommaires SI.md",
-    "Licence 1 - Semestre 2/Projets/matières/Sciences de l’ingénieur",
-    "Licence 1 - Semestre 2/Projets/matières/Logique et bases de données/Sommaires logique et bdd.md",
-    "Licence 1 - Semestre 2/Projets/matières/Logique et bases de données",
-    "Licence 1 - Semestre 2/Projets/matières/Introduction au calcul scientifique/Sommaires calcul sci.md",
-    "Licence 1 - Semestre 2/Projets/matières/Introduction au calcul scientifique",
-    "Licence 1 - Semestre 2/Projets/matières/Compréhension des systèmes informatiques/Sommaires compréhension sys info.md",
-    "Licence 1 - Semestre 2/Projets/matières/Compréhension des systèmes informatiques",
-    "Licence 1 - Semestre 2/Projets/matières/Anglais – Activités d’ouverture/Sommaires Anglais.md",
-    "Licence 1 - Semestre 2/Projets/matières/Anglais – Activités d’ouverture",
-    "Licence 1 - Semestre 2/Notes et Cartes mentales/matières/Traitement du signal et de l’Image/Sommaires signal et image.md",
-    "Licence 1 - Semestre 2/Notes et Cartes mentales/matières/Traitement du signal et de l’Image",
-    "Licence 1 - Semestre 2/Notes et Cartes mentales/matières/Sciences de l’ingénieur/Sommaires SI.md",
-    "Licence 1 - Semestre 2/Notes et Cartes mentales/matières/Sciences de l’ingénieur",
-    "Licence 1 - Semestre 2/Notes et Cartes mentales/matières/Logique et bases de données/Sommaires logique et bdd.md",
-    "Licence 1 - Semestre 2/Notes et Cartes mentales/matières/Logique et bases de données",
-    "Licence 1 - Semestre 2/Notes et Cartes mentales/matières/Introduction au calcul scientifique/Sommaires calcul sci.md",
-    "Licence 1 - Semestre 2/Notes et Cartes mentales/matières/Introduction au calcul scientifique",
-    "Licence 1 - Semestre 2/Notes et Cartes mentales/matières/Compréhension des systèmes informatiques/Sommaires compréhension sys info.md",
-    "Licence 1 - Semestre 2/Notes et Cartes mentales/matières/Anglais – Activités d’ouverture/Sommaires Anglais.md",
-    "Licence 1 - Semestre 2/Sommaire L1 S2.md",
     "Licence 1 - Semestre 2/Notes et Cartes mentales/Sommaires notes L1 S2.md",
     "Licence 1 - Semestre 2/Cours/Sommaires cours L1 S2.md",
     "Licence 1 - Semestre 1/Projets/Sommaires projets L1 S1.md",
+    "Licence 1 - Semestre 1/Notes et Cartes mentales/Sommaires notes L1 S1.md",
+    "Licence 1 - Semestre 1/Cours/Sommaires cours L1 S1.md",
+    "README.md",
+    "Licence 1 - Semestre 1/Cours/Matières/Algorithmique et programmation impérative/Sommaires Algo et prog.md",
+    "t.md",
+    "Licence 1 - Semestre 2/Projets/Matières/Traitement du signal et de l’Image/Sommaires signal et image.md",
+    "Licence 1 - Semestre 2/Projets/Matières/Traitement du signal et de l’Image",
+    "Licence 1 - Semestre 2/Projets/Matières/Sciences de l’ingénieur/Sommaires SI.md",
+    "Licence 1 - Semestre 2/Projets/Matières/Sciences de l’ingénieur",
+    "Licence 1 - Semestre 2/Projets/Matières/Logique et bases de données/Sommaires logique et bdd.md",
+    "Licence 1 - Semestre 2/Projets/Matières/Logique et bases de données",
+    "Licence 1 - Semestre 2/Projets/Matières/Introduction au calcul scientifique/Sommaires calcul sci.md",
+    "Licence 1 - Semestre 2/Projets/Matières/Introduction au calcul scientifique",
+    "Licence 1 - Semestre 2/Projets/Matières/Compréhension des systèmes informatiques/Sommaires compréhension sys info.md",
+    "Licence 1 - Semestre 2/Projets/Matières/Compréhension des systèmes informatiques",
+    "Licence 1 - Semestre 2/Projets/Matières/Anglais – Activités d’ouverture/Sommaires Anglais.md",
+    "Licence 1 - Semestre 2/Projets/Matières/Anglais – Activités d’ouverture",
+    "Licence 1 - Semestre 2/Notes et Cartes mentales/Matières/Traitement du signal et de l’Image/Sommaires signal et image.md",
+    "Licence 1 - Semestre 2/Notes et Cartes mentales/Matières/Traitement du signal et de l’Image",
+    "Licence 1 - Semestre 2/Notes et Cartes mentales/Matières/Sciences de l’ingénieur/Sommaires SI.md",
+    "Licence 1 - Semestre 2/Notes et Cartes mentales/Matières/Sciences de l’ingénieur",
+    "Licence 1 - Semestre 2/Notes et Cartes mentales/Matières/Logique et bases de données/Sommaires logique et bdd.md",
+    "Licence 1 - Semestre 2/Notes et Cartes mentales/Matières/Logique et bases de données",
+    "Licence 1 - Semestre 2/Notes et Cartes mentales/Matières/Introduction au calcul scientifique/Sommaires calcul sci.md",
+    "Licence 1 - Semestre 2/Notes et Cartes mentales/Matières/Introduction au calcul scientifique",
+    "Licence 1 - Semestre 2/Notes et Cartes mentales/Matières/Compréhension des systèmes informatiques/Sommaires compréhension sys info.md",
+    "Licence 1 - Semestre 2/Notes et Cartes mentales/Matières/Anglais – Activités d’ouverture/Sommaires Anglais.md",
+    "Licence 1 - Semestre 2/Sommaire L1 S2.md",
     "Licence 1 - Semestre 1/Cours/Algorithmique et programmation impérative/Sommaires Algo et prog.md",
-    "Licence 1 - Semestre 2/Cours/matières/Traitement du signal et de l’Image/Sommaires signal et image.md",
-    "Licence 1 - Semestre 2/Cours/matières/Sciences de l’ingénieur/Sommaires SI.md",
-    "Licence 1 - Semestre 2/Cours/matières/Logique et bases de données/Sommaires logique et bdd.md",
-    "Licence 1 - Semestre 2/Cours/matières/Introduction au calcul scientifique/Sommaires calcul sci.md"
+    "Licence 1 - Semestre 2/Cours/Matières/Traitement du signal et de l’Image/Sommaires signal et image.md",
+    "Licence 1 - Semestre 2/Cours/Matières/Sciences de l’ingénieur/Sommaires SI.md"
   ]
 }
