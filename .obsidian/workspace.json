@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 301.5
   },
   "right": {
     "id": "e9220fabc31d286c",
@@ -157,7 +157,7 @@
       "workspaces:Gérer les espaces de travail": false
     }
   },
-  "active": "2a6358f3af5b2b61",
+  "active": "831d11897acedcee",
   "lastOpenFiles": [
     "Licence 1 - Semestre 1/Sommaire L1 S1.md",
     "Licence 1 - Semestre 2/Projets/Sommaires projets L1 S2.md",
